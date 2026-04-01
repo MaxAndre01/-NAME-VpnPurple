@@ -1,9 +1,9 @@
 {
   "version": "2.2.0",
-  "min_version": "2.2.0",
-  "url": "https://github.com/tuusuario/VpnPurple/releases/download/v2.2.0/VpnPurple_2.2.0_amd64.AppImage",
-  "windows_url": "https://github.com/tuusuario/VpnPurple/releases/download/v2.2.0/VpnPurple_2.2.0_windows_amd64.exe",
-  "mac_url": "https://github.com/tuusuario/VpnPurple/releases/download/v2.2.0/VpnPurple_2.2.0_darwin_amd64.dmg",
-  "notes": "Corrección de bugs y nuevas funcionalidades",
+  "min_version": "2.1.0",
+  "url": "https://github.com/MaxAndre01/-NAME-VpnPurple/releases/download/v2.2.0/VpnPurple_2.2.0_amd64.AppImage",
+  "windows_url": "https://github.com/MaxAndre01/-NAME-VpnPurple/releases/download/v2.2.0/VpnPurple_2.2.0_windows_amd64.exe",
+  "mac_url": "https://github.com/MaxAndre01/-NAME-VpnPurple/releases/download/v2.2.0/VpnPurple_2.2.0_darwin_amd64.dmg",
+  "notes": "Corrección de bugs, mejora de logs y nueva interfaz de actualización",
   "required": true
 }
